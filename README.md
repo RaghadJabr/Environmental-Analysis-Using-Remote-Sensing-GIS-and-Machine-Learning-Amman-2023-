@@ -1,8 +1,6 @@
 # Environmental-Analysis-Using-Remote-Sensing-GIS-and-Machine-Learning-Amman-2023-
 A data-driven environmental modeling project integrating Google Earth Engine, RSD, GIS datasets, and Machine Learning to analyze vegetation health (NDVI) across the Amman region, Jordan.
 
-# 🌍 Environmental Analysis Using Remote Sensing, GIS, and Machine Learning (Amman 2023)
-
 This project demonstrates how to integrate **Remote Sensing data**, **Geographic Information Systems (GIS)**, and **Machine Learning** to model and visualize environmental health indicators.  
 The analysis focuses on the **Amman region (Jordan)** for the year **2023**, using the **Normalized Difference Vegetation Index (NDVI)** derived from Sentinel-2 imagery.
 
@@ -81,5 +79,5 @@ Vegetation health in Amman is influenced more by **elevation (topography)** than
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<yourusername>/Geo_Environmental_Analysis.git
+git clone https://github.com/<Raghadjabr>/Geo_Environmental_Analysis.git
 cd Geo_Environmental_Analysis
